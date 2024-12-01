@@ -6,7 +6,7 @@
 #### Download
 Download the Repository through Clone Repository or Download Zip
 ```
-git clone 
+git clone https://github.com/Darshil999/CS50_FInal-Project.git
 ```
 #### Installation
 After download, go to `cmd` and navigate to the project folder directory.
@@ -29,11 +29,7 @@ pytest test_project.py
 After successfully running the program, it will prompt for some birthdate.
 Enter the birthdate following the given format `Month Day, Year`. 
 
-![Input Image](https://github.com/clarencesarmiento/CS50P-Final-Project/blob/738ffa4379188b0a995cad04fe61cf7382df57c7/Images/Sample%20Input.png)
 
-The Program output will be like this:
-
-![Output Image](https://github.com/clarencesarmiento/CS50P-Final-Project/blob/738ffa4379188b0a995cad04fe61cf7382df57c7/Images/Sample%20Output.png)
 
 >[!NOTE]
 >The program is case-insensitive.
